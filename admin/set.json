@@ -1,10 +1,10 @@
 
 {
 	"limitawal" : 30,
-	"memberlimit" : 0,
+	"memberlimit" : 500,
 	"cr" : "*bot ini telah di verifikasi*",
 	"BotPrefix" : "#",
-	"owner" : "628xxxxxxxx",
+	"owner" : "6283892731080",
 	"author" : "ampibi bot",
 	"pack" : "@affis_saputro123"
 }
